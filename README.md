@@ -4,5 +4,5 @@ Based on [android_hardware_sprd](https://github.com/ngoquang2708/android_hardwar
 
 ### How to clone:
 ```bash
-git clone -b lineage-16-with-many-bugs https://github.com/Vuhased/android_hardware_sprd hardware/sprd
+git clone -b lineage-16-without https://github.com/Vuhased/android_hardware_sprd hardware/sprd
 ```
